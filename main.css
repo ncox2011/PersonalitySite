@@ -1,0 +1,44 @@
+body {
+   font-family: 'Courier New', Courier, monospace;
+   background-color: bisque;
+}
+    h1 {
+    text-align: center;
+    color: teal;
+    border-style: groove;
+    border-color: rgb(95, 190, 221);
+    transform: rotate();
+        
+}
+
+.imgStyle {
+    height: 400px;
+    width: 500px;
+}
+
+h3 {
+    color: rgb(13, 153, 13);
+    font-style: italic;
+    text-decoration: underline overline dotted rgb(112, 209, 112);
+    font-size: 20px;
+}
+
+li {
+    color: rgb(155, 22, 148);
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+ul.b {
+    list-style-type: square;
+    
+}
+
+ul.c {
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+}
+
